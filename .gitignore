@@ -1,0 +1,6 @@
+﻿node_modules/
+backend/
+.env
+*.7z
+*.mjs
+.DS_Store

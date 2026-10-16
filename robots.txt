@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://faheemshahid8017.github.io/veilrivet-site
+Sitemap: https://faheemshahid8017.github.io/veilrivet-site/sitemap.xml
